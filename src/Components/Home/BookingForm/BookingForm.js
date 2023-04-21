@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './BookingFrom.css'
-import ConfirmationMessage from '../../ConfirmationMessage/ConfirmationMessage';
+
 const BookingForm = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
