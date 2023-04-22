@@ -8,17 +8,17 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 const Home = () => {
-    
+
 //aos
     useEffect(() => {
         AOS.init();
       }, [])
 
     return (
-        <div>
+        <div id='home'>
             <Navbar></Navbar>
             <Banner></Banner>
-           <BookingForm></BookingForm> 
+            <BookingForm></BookingForm> 
             <ChooseUs></ChooseUs>
             <Footer></Footer>
 

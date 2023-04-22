@@ -37,22 +37,8 @@ section {
   
  
   
-  /* Footer links */
-  
-  .footer-distributed .footer-links{
-    color:  #ffffff;
-    margin: 20px 0 12px;
-    padding: 0;
-  }
-  
-  .footer-distributed .footer-links a{
-    display:inline-block;
-    line-height: 1.8;
-    font-weight:400;
-    text-decoration: none;
-    color:  inherit;
-  }
-  
+ 
+ 
   .footer-distributed .footer-company-name{
     color:  #222;
     font-size: 14px;

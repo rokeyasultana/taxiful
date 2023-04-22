@@ -9,17 +9,6 @@ const Footer = () => {
 <div class="footer-left">
 <img class='footerLogo' src={logo} alt="" />
 
-  <p class="footer-links">
-
-    
-    <a href="#">Home</a>
-  
-    <a href="#">About</a>
-    
-    <a href="#">Faq</a>
-    
-    <a href="#">Contact</a>
-  </p>
 
   <p class="footer-company-name">Taxiful © 2023</p>
 </div>
