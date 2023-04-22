@@ -3,7 +3,7 @@ import './ChooseUs.css';
 
 const ChooseUs = () => {
     return (
-        <div className='choose'>
+        <div className='choose'  >
            <h2><strong  className='us'>WHY CHOOSE US</strong></h2> 
 
 <p className='service'>When you’re looking for a good, reliable taxi service in Greater Perth, there are plenty of good reasons to choose us. We’ll highlight a few of those reasons below, but for the full list of benefits of using our services, go to Why choose Maxi Taxi Perth.</p>
@@ -13,7 +13,7 @@ const ChooseUs = () => {
 </div>
 
 
-<div className='call-out' data-aos="fade-up" data-aos-duration="1900" >
+<div className='call-out'>
      <div className='border'>
         <img src="https://www.maxitaxiperth.com.au/assets/uploads/why_choose_us/008716200_1520317683.png" alt="" />
         <p>No call-out fee</p>

@@ -145,3 +145,24 @@
       padding: 1rem;
       }
       }
+      @media (max-width: 600px) {
+        .line1{
+          display: grid;
+          grid-template-columns: repeat(1, 1fr);
+          gap: 30px;
+          text-align: left;
+        }
+      .line2{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 30px;
+        text-align: left;
+      }
+      .line3{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 30px;
+        text-align: left;
+      }
+      }
+    
