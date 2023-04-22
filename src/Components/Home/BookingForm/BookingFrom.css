@@ -46,7 +46,9 @@
   input[type="number"],
   textarea {
     width: 100%;
-    padding: 0.5rem;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   padding-right: 20px;
     border: 2px solid #ccc;
     border-radius: 0.25rem;
     margin-bottom: 10px;
