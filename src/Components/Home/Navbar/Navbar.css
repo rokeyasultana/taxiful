@@ -1,0 +1,27 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+   
+  }
+  
+  .logo img {
+    height: 50px;
+ 
+  }
+  
+.home{
+    color: #FF9800;
+    font-size: 20px;
+ }
+
+  .signup button {
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #FF9800;
+    color: #fff;
+    cursor: pointer;
+  }
+  
