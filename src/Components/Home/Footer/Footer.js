@@ -10,11 +10,9 @@ const Footer = () => {
 <img class='footerLogo' src={logo} alt="" />
 
   <p class="footer-links">
-    <a href="#" class="link-1">Home</a>
-    
-    <a href="#">Blog</a>
-  
 
+    
+    <a href="#">Home</a>
   
     <a href="#">About</a>
     
@@ -23,7 +21,7 @@ const Footer = () => {
     <a href="#">Contact</a>
   </p>
 
-  <p class="footer-company-name">Taxiful © 2020</p>
+  <p class="footer-company-name">Taxiful © 2023</p>
 </div>
 
 <div class="footer-center">
@@ -49,17 +47,10 @@ const Footer = () => {
 
   <p class="footer-company-about">
     <span>About the company</span>
-    Lorem ipsum dolor sit amet, consectateur adispicing elit. Fusce euismod convallis velit, eu auctor lacus vehicula sit amet.
+   Taxiful is a taxi company in Perth providing premium customer service at standard taxi rates. We are not a dispatch company but a group of highly experienced, individual taxi drivers based all across the Greater Perth area, united in our goal of providing an excellent taxi service at all times, without charging extra for that service.
   </p>
 
-  <div class="footer-icons">
-
-    <a href="#"><i class="fa fa-facebook"></i></a>
-    <a href="#"><i class="fa fa-twitter"></i></a>
-    <a href="#"><i class="fa fa-linkedin"></i></a>
-    <a href="#"><i class="fa fa-github"></i></a>
-
-  </div>
+  
 
 </div>
 

@@ -198,7 +198,7 @@ const BookingForm = () => {
     </form>
   ) : (
     <div className="confirmation-container">
-      <h2>Thank you for your inquiry!</h2>
+      <h2>Thank you for your Booking!</h2>
       <p>
         Your pickup details are as follows:
         <br />

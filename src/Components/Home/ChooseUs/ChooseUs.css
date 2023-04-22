@@ -21,3 +21,39 @@
     font-size: 20px;
     
 }
+.call-out{
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+margin-left: 60px;
+margin-right: 30px;
+}
+.call-out img{
+    margin-top: 20px;
+}
+.call-out p{
+    font-weight: 600;
+    font-size: 20px;
+}
+.border{
+    border: 2px solid gray ;
+   width: 220px;
+}
+
+@media (max-width: 768px) {
+    .call-out{
+      grid-template-columns: repeat(1, 1fr);
+      align-items: center;
+      justify-content: center;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    .call-out{
+        grid-template-columns: repeat(2, 1fr);
+        align-items: center;
+        justify-content: center;
+      }
+  }
