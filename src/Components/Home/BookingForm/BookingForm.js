@@ -69,11 +69,11 @@ const BookingForm = () => {
   };
 
     return (
-      <div className='form' >
+      <div className='form' data-aos="zoom-in-up" data-aos-duration="1500">
         
         <div className="inquiry-form-container">
       {!showConfirmation ? (
-        <form onSubmit={handleFormSubmit}  data-aos="zoom-in-up" data-aos-duration="1500">
+        <form onSubmit={handleFormSubmit} >
           <h2 className='book'>Book a Taxi</h2>
         {/* div 1 */}
       <div className='line1'> 
