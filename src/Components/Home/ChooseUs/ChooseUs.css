@@ -1,0 +1,23 @@
+
+.choose{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.us{
+    
+    border-bottom: 5px solid #FF9800;
+    border-radius: 2px;
+    margin-bottom: 30px;
+}
+.service{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.choosePoint{
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 20px;
+    
+}

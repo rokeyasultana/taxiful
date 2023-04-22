@@ -4,7 +4,7 @@ import './Banner.css';
 const Banner = () => {
     return (
         <div>
-          <div class="banner">
+          {/* <div class="banner">
      
      <div class="banner-text">
        <h1>RELIABLE, <span>FLEXIBLE</span></h1>
@@ -15,7 +15,25 @@ const Banner = () => {
      </div>
      <img src="https://www.freepnglogos.com/uploads/taxi-png/taxi-professional-airport-transportation-turlock-15.png" alt="Banner Image"/>
      
-   </div>
+   </div> */}
+<div class="banner">
+  
+  <div class="banner-text">
+    <h2><strong class="welcome">Learn investment & Trading </strong> with<span> industry Experts</span></h2>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempore, ad.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam, veniam obcaecati. Rerum animi distinctio itaque dolorem ipsam optio quibusdam voluptatibus.</p>
+
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus quibusdam atque aperiam, asperiores distinctio rerum.</p>
+
+
+    
+    
+   
+      
+  </div>
+  <img class="section2" src="https://www.freepnglogos.com/uploads/taxi-png/taxi-professional-airport-transportation-turlock-15.png" alt="Banner Image"/>
+</div>
+
  
         </div>
     );
